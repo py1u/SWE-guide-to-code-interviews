@@ -4,7 +4,7 @@
 
 ### By Peter Lu and Mellie Mariano
 
-Intial latex publication: September 23rd, 2021 | Initial github commit: March 24th, 2022 | Final latex publication: January 15th, 2023 | Repository migration: in progress
+Initial latex publication: September 23rd, 2021 | Initial github commit: March 24th, 2022 | Final latex publication: January 15th, 2023 | Repository migration: in progress
 
 Estimated Contributions: 
 
@@ -14,9 +14,9 @@ Estimated Contributions:
 
 #### Introducing Ourselves:
 
-Hello name is Peter, I am a Data Science and Applied Physics double major w/ a minor in Business @ UC Riverside planning to graduate in spring 2024 and pursue my Masters in Artificial Intelligence @ Nanyang Technological University in Spring 2025. The reason Mellie and I created this guide/book was to provide UCR students with advice on cracking the code interviews that they would experience when applying for software engineering positions. My hobbies include reading books, watching movies, playing basketball, and skateboarding!
+Hello! my name is Peter, I am a Data Science and Applied Physics double major w/ a minor in Business @ UC Riverside planning to graduate in spring 2024 and pursue my Masters in Artificial Intelligence @ Nanyang Technological University in Spring 2025. The reason Mellie and I created this guide/book was to provide UCR students with advice on cracking the code interviews that they would experience when applying for software engineering positions. My hobbies include reading books, watching movies, playing basketball, and skateboarding!
 
-Hi my name is Mellie, I am a Computer Science and Cognitive Sciences double major @ UC Irvine hoping to graduate in spring 2024. I plan to pursue my masters in my forth year at UCI. Peter and I created this guide because we wanted to help UCR students gain the skills nessesary to succeed in coding interviews from a guide that would provide our own coding journey from seperate universities. I enjoy ice skating, skateboarding, and watching anime! 
+Hii my name is Mellie, I am a Computer Science and Cognitive Sciences double major @ UC Irvine hoping to graduate in spring 2024. I plan to pursue my masters in my forth year at UCI. Peter and I created this guide because we wanted to help UCR students gain the skills nessesary to succeed in coding interviews from a guide that would provide our own coding journey from seperate universities. I enjoy ice skating, skateboarding, and watching anime! 
 
 #### Our Motivation:
 
