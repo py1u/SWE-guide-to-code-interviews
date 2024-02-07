@@ -4,7 +4,13 @@
 
 ### By Peter Lu and Mellie Mariano
 
-Date created: September 23rd, 2021 | Initial commit to Github: March 24th, 2022 | Repository completion: January 15th, 2023 | Repository migration: in progress
+Intial latex publication: September 23rd, 2021 | Initial github commit: March 24th, 2022 | Final latex publication: January 15th, 2023 | Repository migration: in progress
+
+Estimated Contributions: 
+
+- Peter Lu, 347 days, 114 sections 9-23-21 to 1-8-23, completion of 1st,2nd,3rd milestone.
+
+- Mellie Mariano, 251 days, 73 sections 9-23-21 to 6-5-22, completetion of 1st, half of 2nd milestone. 
 
 #### Introducing Ourselves:
 
