@@ -58,6 +58,33 @@ The skys the limit with a computer science degree and there are so many unique j
 
     <img src="/part_1_assets/SWEMarket.PNG">
 
+I would also like to share a set of quotes from the top tech CEOs that share their perspectives and philosophies on being a Software Engineer. Hopefully you find one that inspires you!
+
+"Software is a great combination between artistry and engineering."
+*Bill Gates (Microsoft)*
+
+"You never lose a dream; it just incubates as a hobby."
+*Larry Page (Alphabet/Google)*
+
+
+"Our industry does not respect tradition — it only respects innovation."
+*Satya Nadella (Microsoft)*
+
+
+"In the old world, you devoted 30% of your time to building a great service and 70% of your time to shouting about it. In the new world, that inverts."
+*Jeff Bezos (Amazon)*
+
+
+"In technology, it's not about patents, trademarks, or processes. It's about people."
+*Tim Cook (Apple)*
+
+
+"You get paid in direct proportion to the difficulty of problems you solve."
+*Elon Musk (Tesla, SpaceX)*
+
+
+"The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks."
+*Mark Zuckerberg (Facebook/Meta)*
 
 I hope this helps you get a better idea of software engineering and the promising career you can have as a software engineer. Don't worry about the common hype of AI and that it will take over the jobs of software engineers. Maybe it will in the future but at the same time, AI is still developed by humans, those humans being software engineers! Point is, software engineering is a excellent field to get into as a computer science student and I would regard it as the most exciting job to start with if you are not sure where to go after getting your bachelors in computer science and any CS related major. Is it competitive? most definitely but that is why this guide was created, to help you prepare for the coding interviews which will be the ultimate goal of this book.
 
