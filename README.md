@@ -1,8 +1,9 @@
 # A Guide To Winning the Code Interviews and becoming a Software Engineer
+#### 1st Edition 2021-2022
 
-### A guide on the progression of thinking like a software developer from start to finish. Exploring easy, medium, and hard-level coding interview questions from the top tech companies.
+#### A guide on the progression of thinking like a software developer from start to finish. Exploring easy, medium, and hard-level coding interview questions from the top tech companies.
 
-### By Peter Lu and Mellie Mariano
+#### By Peter Lu and Mellie Mariano
 
 Initial latex publication: September 23rd, 2021 | Initial github commit: March 24th, 2022 | Final latex publication: January 15th, 2023 | Repository migration: in progress
 
@@ -10,8 +11,23 @@ Estimated Contributions:
 
 - Peter Lu, 347 days, 114 sections 9-23-21 to 1-8-23, completion of 1st,2nd,3rd milestone.
 
-- Mellie Mariano, 251 days, 73 sections 9-23-21 to 6-5-22, completetion of 1st, half of 2nd milestone. 
+- Mellie Mariano, 251 days, 73 sections 9-23-21 to 6-5-22, completetion of 1st, half of 2nd milestone.
 
+## Table of Contents:
+## Introduction: An Overview of Software Engineering
+## Chapter 1: The Art of Clean Code
+## Chapter 2: Data Structures
+## Chapter 3: Algorithms + Design and Analysis
+## Chapter 4: Advanced Programming + Agile and DevOps
+## Chapter 5: Applying and getting a Interview
+## Chapter 6: The Code Interview
+## Chapter 7: 150 Questions
+## Chapter 8: Top 50 from FAANG
+## Chapter 9: Become a C++ Master
+## Chapter 10: Become a Python Master
+## Conclusion: Final Remarks and GoodLuck
+
+## Introduction
 #### Introducing Ourselves:
 
 Hello! My name is Peter, I am a Data Science and Applied Physics double major with/ a minor in Business @ UC Riverside planning to graduate in spring 2024 and pursue my Masters in Artificial Intelligence @ Nanyang Technological University in Spring 2025. The reason Mellie and I created this guide/book was to provide UCR students with advice on cracking the code interviews that they would experience when applying for software engineering positions. My hobbies include reading books, watching movies, playing basketball, and skateboarding!
@@ -25,10 +41,8 @@ We wanted to document our coding journey from the beginning of summer 2021. Mell
 Our goal is not to teach you how to code because we believe you would be taking introductory courses and developing the skill along the way anyway. Instead we want to teach you how to think like a software engineer prove that write code that is clean, meaningful, and effective outside of a classroom and in real world applications in the industry. Much of the coding techniques we want to cover will reflect common industry trends and we will go down to the very fundementals of programming that all great programmers must know. We hope to finish this guide by the fall of 2022. By the end of this guide, you should have fluency in C++ or Python from the CS10,12,14 series, and confidence coding medium to hard level technical interview problems. 
 
 
-# Part1: Software Engineering: What? Where? Why? 
-published on: Decmeber 1st, 2021
-
-## Introduction: 
+# Before Getting Started: Software Engineering: What? Where? Why? 
+Decmeber 1st, 2021
 
 If you are reading this, that means you have already realized that you want to become a software engineer. Maybe you have dreamed of it. Hoping to land an internship, or better yet, a fully paid entry-level position as a software engineer. Great! Let me explain.
 
