@@ -25,7 +25,7 @@ Estimated Contributions:
 ## Chapter 8: Top 50 from FAANG
 ## Chapter 9: Become a C++ Master
 ## Chapter 10: Become a Python Master
-## Conclusion: Final Remarks and GoodLuck
+## Conclusion: Final Tips and Advice
 
 ## Introduction
 ### Introducing Ourselves:
