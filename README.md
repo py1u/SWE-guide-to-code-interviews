@@ -36,9 +36,11 @@ Hi, my name is Mellie, I am a Computer Science and Cognitive Sciences double maj
 
 ### Our Motivation:
 
-We wanted to document our coding journey from the beginning of summer 2021. Mellie has strengths in agile programming and DevOps and Peter strengths in mathematics and computational theory and together these students decided to create a guide that would prepare students to succeed in coding interviews where university coursework fails to prepare them for. Throughout this guide, you will see our own progression in coding and understanding software development. This allowed us to put together a guide which would best reflect how a student from UCR would experience during their undergrad as a Computer Science student. By designing our guide that builds your skills from begginer to advanced following the progression of programming from introductory courses to upper divison projects, this would provided the best way to teach students and keep them engaged. 
+We wanted to document our coding journey from the beginning of summer 2021. Mellie has strengths in Agile programming and DevOps and Peter has strengths in mathematics and computational theory, and together these students decided to create a guide that would prepare students to succeed in coding interviews where university coursework fails to prepare them for. Throughout this guide, you will see our own progression in coding and understanding software development. This allowed us to put together a guide which would best reflect how a student from UCR would experience during their undergrad as a Computer Science student. By designing our guide that builds your skills from begginer to advanced following the progression of programming from introductory courses to upper divison projects, this would provided the best way to teach students and keep them engaged. 
 
-Our goal is not to teach you how to code because we believe you would be taking introductory courses and developing the skill along the way anyway. Instead we want to teach you how to think like a software engineer prove that write code that is clean, meaningful, and effective outside of a classroom and in real world applications in the industry. Much of the coding techniques we want to cover will reflect common industry trends and we will go down to the very fundementals of programming that all great programmers must know. We hope to finish this guide by the fall of 2022. By the end of this guide, you should have fluency in C++ or Python from the CS10,12,14 series, and confidence coding medium to hard level technical interview problems. 
+Our goal is not to teach you how to code because we believe you would be taking introductory courses and developing the skill along the way anyway. Instead we want to teach you how to *think* like a software engineer and apply this thinking to write code that is *clean*, meaningful*, and *effective* outside of a classroom and in real world applications in the industry. Much of the coding techniques we want to cover will reflect common industry trends and we will go down to the very fundementals of programming that all great programmers must know. We hope to finish this guide by the fall of 2022. By the end of this guide, you should have fluency in C++ or Python from the CS10,12,14 series, and confidence coding medium to hard level technical interview problems. Better yet you will be able to write code that sets you apart in coding interviews and impress your interviewer and friends. Dont settle with being just good at programming, **be a programmer with great habits**
+
+*I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck*
 
 
 ### Before Getting Started: Software Engineering: What? Where? Why? 
@@ -112,6 +114,18 @@ I would also like to share a set of quotes from the top tech CEOs that share the
 *Mark Zuckerberg (Facebook/Meta)*
 
 I hope this helps you get a better idea of software engineering and the promising career you can have as a software engineer. Don't worry about the common hype of AI and that it will take over the jobs of software engineers. Maybe it will in the future but at the same time, AI is still developed by humans, those humans being software engineers! Point is, software engineering is a excellent field to get into as a computer science student and I would regard it as the most exciting job to start with if you are not sure where to go after getting your bachelors in computer science and any CS related major. Is it competitive? most definitely but that is why this guide was created, to help you prepare for the coding interviews which will be the ultimate goal of this book.
+
+## Chapter 1: The Art of Clean Code
+
+### Purpose: 
+To show you why simply being good at programming is not enough. Everyone can be considered a good programmer. Why be like everyone else? You must build great habits that will make you a *great* programmer. 
+
+### Motivation:
+This chapter is designed to explore what it means to write clean code. This means naming conventions, code spacing, readability, and organized action.
+
+
+
+
 
 References:
 
