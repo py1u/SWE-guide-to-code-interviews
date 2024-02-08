@@ -28,20 +28,20 @@ Estimated Contributions:
 ## Conclusion: Final Remarks and GoodLuck
 
 ## Introduction
-#### Introducing Ourselves:
+### Introducing Ourselves:
 
 Hello! My name is Peter, I am a Data Science and Applied Physics double major with/ a minor in Business @ UC Riverside planning to graduate in spring 2024 and pursue my Masters in Artificial Intelligence @ Nanyang Technological University in Spring 2025. The reason Mellie and I created this guide/book was to provide UCR students with advice on cracking the code interviews that they would experience when applying for software engineering positions. My hobbies include reading books, watching movies, playing basketball, and skateboarding!
 
 Hi, my name is Mellie, I am a Computer Science and Cognitive Sciences double major @ UC Irvine hoping to graduate in spring 2024. I plan to pursue my masters in my fourth year at UCI. Peter and I created this guide because we wanted to help UCR students gain the skills necessary to succeed in coding interviews. We also wanted a unique guide that would provide our own coding journey from separate universities. I enjoy ice skating, skateboarding, and watching anime!
 
-#### Our Motivation:
+### Our Motivation:
 
 We wanted to document our coding journey from the beginning of summer 2021. Mellie has strengths in agile programming and DevOps and Peter strengths in mathematics and computational theory and together these students decided to create a guide that would prepare students to succeed in coding interviews where university coursework fails to prepare them for. Throughout this guide, you will see our own progression in coding and understanding software development. This allowed us to put together a guide which would best reflect how a student from UCR would experience during their undergrad as a Computer Science student. By designing our guide that builds your skills from begginer to advanced following the progression of programming from introductory courses to upper divison projects, this would provided the best way to teach students and keep them engaged. 
 
 Our goal is not to teach you how to code because we believe you would be taking introductory courses and developing the skill along the way anyway. Instead we want to teach you how to think like a software engineer prove that write code that is clean, meaningful, and effective outside of a classroom and in real world applications in the industry. Much of the coding techniques we want to cover will reflect common industry trends and we will go down to the very fundementals of programming that all great programmers must know. We hope to finish this guide by the fall of 2022. By the end of this guide, you should have fluency in C++ or Python from the CS10,12,14 series, and confidence coding medium to hard level technical interview problems. 
 
 
-# Before Getting Started: Software Engineering: What? Where? Why? 
+### Before Getting Started: Software Engineering: What? Where? Why? 
 Decmeber 1st, 2021
 
 If you are reading this, that means you have already realized that you want to become a software engineer. Maybe you have dreamed of it. Hoping to land an internship, or better yet, a fully paid entry-level position as a software engineer. Great! Let me explain.
@@ -71,17 +71,17 @@ The sky is the limit with a computer science degree and there are so many unique
 
 Before we finish this introduction chapter, Let us provide an overview of software engineering in 2022.
 
-    - Take a look at the highest paying jobs in Software Engineering Roles:
+- Take a look at the highest paying jobs in Software Engineering Roles:
 
-    <img src="/part_1_assets/highestPayingJobs2022.PNG">
+<img src="/part_1_assets/highestPayingJobs2022.PNG">
 
-    - Take a look at the most popular locations for Software Engineers! My tip: **go to the Bay Area!* It is a hotspot and continues to grow bigger every year:
+- Take a look at the most popular locations for Software Engineers! My tip: **go to the Bay Area!* It is a hotspot and continues to grow bigger every year:
 
-    <img src="/part_1_assets/CommandingLocations.PNG">
+<img src="/part_1_assets/CommandingLocations.PNG">
 
-    - Take a look at the market trends for company revenue generated through software products:
+- Take a look at the market trends for company revenue generated through software products:
 
-    <img src="/part_1_assets/SWEMarket.PNG">
+<img src="/part_1_assets/SWEMarket.PNG">
 
 I would also like to share a set of quotes from the top tech CEOs that share their perspectives and philosophies on being a Software Engineer. Hopefully you find one that inspires you!
 
