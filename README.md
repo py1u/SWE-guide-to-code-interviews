@@ -40,7 +40,7 @@ We wanted to document our coding journey from the beginning of summer 2021. Mell
 
 Our goal is not to teach you how to code because we believe you would be taking introductory courses and developing the skill along the way anyway. Instead we want to teach you how to *think* like a software engineer and apply this thinking to write code that is *clean*, meaningful*, and *effective* outside of a classroom and in real world applications in the industry. Much of the coding techniques we want to cover will reflect common industry trends and we will go down to the very fundementals of programming that all great programmers must know. We hope to finish this guide by the fall of 2022. By the end of this guide, you should have fluency in C++ or Python from the CS10,12,14 series, and confidence coding medium to hard level technical interview problems. Better yet you will be able to write code that sets you apart in coding interviews and impress your interviewer and friends. Dont settle with being just good at programming, **be a programmer with great habits**
 
-*I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck*
+*I’m not a great programmer; I’m just a good programmer with great habits. ― Kent Beck* ~ Author of Extreme Programming
 
 
 ### Before Getting Started: Software Engineering: What? Where? Why? 
@@ -123,7 +123,7 @@ To show you why simply being good at programming is not enough. Everyone can be 
 ### Motivation:
 This chapter is designed to explore what it means to write clean code. This means naming conventions, code spacing, readability, and organized action.
 
-
+### What is Clean Code? and why is it an Art?
 
 
 
