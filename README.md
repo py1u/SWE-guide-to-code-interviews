@@ -1,4 +1,4 @@
-# Software Engineering: Preparing For the Coding Interview 2021-2022
+# A Guide To Winning the Code Interviews and becoming a Software Engineer
 
 ### A guide on the progression of thinking like a software developer from start to finish. Exploring easy, medium, and hard-level coding interview questions from the top tech companies.
 
