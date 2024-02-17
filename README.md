@@ -13,6 +13,9 @@ Estimated Contributions:
 
 - Mellie Mariano, 251 days, 73 sections 9-23-21 to 6-5-22, completetion of 1st, half of 2nd milestone.
 
+- Developer Notes:
+  trying to upload a chapter every three weeks after revision and transferring latex markdown to github
+
 ## Table of Contents:
 ## Introduction: An Overview of Software Engineering
 ## Chapter 1: The Art of Clean Code
