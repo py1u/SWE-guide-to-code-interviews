@@ -1,5 +1,5 @@
 # A Guide To Winning the Code Interviews and becoming a Software Engineer
-#### 1st Edition 2021-2022
+#### 1st Edition 2021-2022 (old), NEW: 2nd Edition 2024-2025 work in progress as of Jan 15th 2024..
 
 #### A guide on the progression of thinking like a software developer from start to finish. Exploring easy, medium, and hard-level coding interview questions from the top tech companies.
 
