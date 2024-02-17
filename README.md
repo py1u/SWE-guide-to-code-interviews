@@ -1,4 +1,4 @@
-# A Guide To Winning the Code Interviews and becoming a Software Engineer
+# A Guide To Winning the Code Interviews and Becoming a Software Engineer
 #### 1st Edition 2021-2022 (old), NEW: 2nd Edition 2024-2025 work in progress as of Jan 15th 2024..
 
 #### A guide on the progression of thinking like a software developer from start to finish. Exploring easy, medium, and hard-level coding interview questions from the top tech companies.
@@ -10,11 +10,13 @@ Initial latex publication: September 23rd, 2021 | Initial github commit: March 2
 Estimated Contributions: 
 
 - Peter Lu, 347 days, 114 sections 9-23-21 to 1-8-23, completion of 1st,2nd,3rd milestone.
+    - status: Active
 
 - Mellie Mariano, 251 days, 73 sections 9-23-21 to 6-5-22, completetion of 1st, half of 2nd milestone.
+    - status: Retired
 
 - Developer Notes:
-  trying to upload a chapter every three weeks after revision and transferring latex markdown to github
+  - trying to upload a chapter every three weeks after revision and transferring latex markdown to github
 
 ## Table of Contents:
 ## Introduction: An Overview of Software Engineering
