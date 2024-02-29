@@ -128,7 +128,7 @@ To show you why simply being good at programming is not enough. Everyone can be 
 ### Motivation:
 This chapter is designed to explore what it means to write clean code. This means naming conventions, code spacing, readability, and organized action.
 
-### What is Clean Code? and why is it an Art?
+
 
 
 
